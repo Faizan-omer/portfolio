@@ -26,7 +26,7 @@ const Intro = () => {
           <img
             src={roboimg}
             alt=""
-            className="w-32 absolute right-32 bottom-48 z-30 animation-rotate-360 infinite duration-5s linear"
+            className="w-32 absolute right-32 bottom-48 z-40 animation-rotate-360 infinite duration-5s linear"
           />
           <img
             src={windowimg}
