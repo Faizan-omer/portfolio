@@ -17,7 +17,7 @@ const socials = [
     logo: discord,
   },
   {
-    url: "https://www.linkedin.com/in/faizan-omer11/",
+    url: "https://github.com/Faizan-omer",
     logo: github,
   },
 ];
