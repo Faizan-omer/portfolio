@@ -16,9 +16,10 @@ const Bio = () => {
         <div className="mt-12 text-lg leading-6">
           <h2 className="font-semibold">Bio:</h2>
           <p>
-            Father of 3 humans, 5 unicorns & 2 dogs,I design since I can remember it. I
-            often get asked where I get my inspiration from: in everydays lil details. And
-            sometimes in leftover food I find in my beard.
+            I completed my Bachelors in Computer Science from NUCES, karachi. A forever
+            student looking to learn new things related and or unrelated to my field of
+            work. In my free time I like to relax with a little music and a book if my pet
+            doesn't decide to bother me that is.
           </p>
         </div>
       </div>

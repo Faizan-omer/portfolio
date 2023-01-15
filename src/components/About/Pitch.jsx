@@ -4,26 +4,27 @@ const Pitch = () => {
   return (
     <div className="leading-6 text-lg">
       <div className="font-bold">
-        When I was 5, I got adbucted by a unicorn family. When they returned me to earth,
-        I joined a designer school. But, fo real, what I learned with my kidnaptive family
-        really gave an edge to my creative language.
+        When I was 5, I got introduced to a computer. Eversince I've been in love with the
+        idea of creating software, I joined a computer school. But, for real, what I
+        learned with my time on the machine itself really gave me an edge with my
+        programming skills.
       </div>
       <div className="mt-6">
         <div className="bg-[#009379] text-[#F6DCE9] font-semibold text-white py-2">
-          <p>Being a human is way too complicated. Time to be a unicorn.</p>
+          <p>Codes are a puzzle. A game, just like any other game.</p>
         </div>
         <p className="mt-2">
-          Try it and youll see. Then your Figma files are just gonna fly in color,
-          glitter, interactions and autolayout.
+          "Those who can imagine anything, can create the impossible" -{" "}
+          <span className="italic">Quote by Alan Turing</span>
         </p>
         <div className="bg-[#009379] text-[#F6DCE9] font-semibold text-white py-2">
-          <p>Also, grow a beard. Check my bio if that is not clear.</p>
+          <p>My coding style?</p>
         </div>
         <p className="mt-2">
-          Available for projects, from Monday to Tuesday, mainy between 14 and 16. (Unless
-          there is a unicorn race on TV - DUH -in that case, come back another day).
-          Projects include, RocknRoll covers, furniture refurbishing, Unicorn potty
-          training and more.
+          I write neat and clean properly formatted code based on best practices with
+          clear comments and conventional variable names. I review my code thoroughly
+          before submitting a pull request and test the feature according to the
+          requirement while inspecting responsiveness and other style related issues
         </p>
       </div>
     </div>
