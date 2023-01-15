@@ -11,7 +11,7 @@ const Slider = ({ slides, portfolio, desktop }) => {
     spaceBetween: desktop ? 90 : 0,
     autoplay: {
       delay: 3000,
-      disableOnInteraction: true,
+      disableOnInteraction: false,
     },
     loop: true,
     navigation: desktop,
