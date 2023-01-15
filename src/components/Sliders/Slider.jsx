@@ -15,8 +15,6 @@ const Slider = ({ slides, portfolio, desktop }) => {
     },
     loop: true,
     navigation: desktop,
-    onSlideChange: () => console.log("slide change"),
-    onSwiper: (swiper) => console.log(swiper),
   };
 
   const createSlide = (slide, index) => {

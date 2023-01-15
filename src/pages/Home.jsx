@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div className="h-full w-full">
       <AppLayout>
-        <div className="pt-36 flex flex-col jusitfy-center items-center px-5 my-12">
+        <div className="pt-8 flex flex-col jusitfy-center items-center px-5 my-12">
           <Intro />
           <Divider />
           <div className="mt-12 md:mt-16 md:mb-16 flex flex-col justify-center items-center md:w-full">

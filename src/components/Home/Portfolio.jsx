@@ -17,6 +17,7 @@ const Portfolio = () => {
             />
           </a>
           <p className="mt-3 font-bold text-sm">{project.title}</p>
+          <p className="text-xs italic">{project.role}</p>
         </div>
       ))}
     </div>

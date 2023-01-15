@@ -4,7 +4,7 @@ import { Footer } from "../components/Footer";
 
 const AppLayout = ({ children }) => {
   return (
-    <div className="h-full w-full relative overflow-x-hidden">
+    <div className="h-full w-full relative ">
       <Header />
       <div>{children}</div>
       <Footer />
