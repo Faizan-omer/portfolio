@@ -30,6 +30,7 @@ const Footer = () => {
           <ContactForm />
         </div>
       </div>
+      <div className="h-28"></div>
     </div>
   );
 };
