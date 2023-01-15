@@ -1,3 +1,3 @@
 module.exports = {
-  skills: ["Web Developer 💻", 4000, "Mobile developer 📱", 4000],
+  skills: ["Web Developer 💻", 4000, "Mobile Developer 📱", 4000],
 };

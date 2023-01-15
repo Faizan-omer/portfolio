@@ -26,7 +26,7 @@ const Home = () => {
               <Slider slides={techStack} desktop={true} />
             </div>
           </div>
-          <Divider style={{ css: "px-5" }} />
+          <Divider />
           <div className="mt-12 flex flex-col justify-center items-center">
             <hr />
             <h1 className="leading-[4rem] text-center font-bold text-4xl" id="my-work">

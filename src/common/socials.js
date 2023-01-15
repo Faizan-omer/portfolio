@@ -9,11 +9,11 @@ const socials = [
     logo: linkedin,
   },
   {
-    url: "https://www.linkedin.com/in/faizan-omer11/",
+    url: "https://www.instagram.com/omega_5555555/",
     logo: instagram,
   },
   {
-    url: "https://www.linkedin.com/in/faizan-omer11/",
+    url: "https://discordapp.com/users/fazi#1630",
     logo: discord,
   },
   {
