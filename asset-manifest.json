@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a6aacd6e.css",
+    "main.js": "/portfolio/static/js/main.09744586.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/traveliner.png": "/portfolio/static/media/traveliner.20e31e87a9f10a3db237.png",
+    "static/media/robo-mod.png": "/portfolio/static/media/robo-mod.b5b8fe6fb2b4aa212e82.png",
+    "static/media/monitor-mod.png": "/portfolio/static/media/monitor-mod.fbecfa6212e939ccb13d.png",
+    "static/media/flexsite.png": "/portfolio/static/media/flexsite.7a0d40f41800a3dafaed.png",
+    "static/media/me.jpg": "/portfolio/static/media/me.667b10d657738f31a51f.jpg",
+    "static/media/itque.png": "/portfolio/static/media/itque.eeaf2c65b754c5069a12.png",
+    "static/media/artwyrx.png": "/portfolio/static/media/artwyrx.50f8bb9c468760c08df0.png",
+    "static/media/deepmove.png": "/portfolio/static/media/deepmove.ed76c476d20263f2b04b.png",
+    "static/media/backgate.png": "/portfolio/static/media/backgate.8ce03e2133ad86c7286e.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.0b88251e461dd0854642.pdf",
+    "static/media/aws.png": "/portfolio/static/media/aws.99ae03c5e8dbc24c9d7e.png",
+    "static/media/Epilogue-Regular.ttf": "/portfolio/static/media/Epilogue-Regular.666614487352ae23e96b.ttf",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.55309d71cbc1f392ec1c.png",
+    "static/media/github.png": "/portfolio/static/media/github.5b8c047df5d2180c84cd.png",
+    "static/media/rails.png": "/portfolio/static/media/rails.098cc1b53e950f561ca1.png",
+    "static/media/discord.png": "/portfolio/static/media/discord.8a629e274f7e8a04967f.png",
+    "static/media/node.png": "/portfolio/static/media/node.111f27826443c0139aaf.png",
+    "static/media/react.png": "/portfolio/static/media/react.44319306359c7112276d.png",
+    "static/media/postgres.png": "/portfolio/static/media/postgres.3a67f20f98aeaba767f3.png",
+    "static/media/window-mod.png": "/portfolio/static/media/window-mod.b569fb471bbd1482ef6a.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.8ca52c25afffafaa83f1.png",
+    "index.html": "/portfolio/index.html",
+    "main.a6aacd6e.css.map": "/portfolio/static/css/main.a6aacd6e.css.map",
+    "main.09744586.js.map": "/portfolio/static/js/main.09744586.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6aacd6e.css",
+    "static/js/main.09744586.js"
+  ]
+}
