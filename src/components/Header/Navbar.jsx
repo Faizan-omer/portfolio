@@ -50,18 +50,20 @@ const Navbar = () => {
                 <Link to={HOME}>Home</Link>
               )}
             </li>
-            <li className="hover:cursor-pointer hover:underline self-center">
-              <Scroll.Link
-                activeClass="active"
-                to={work}
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-              >
-                Work
-              </Scroll.Link>
-            </li>
+            {location.pathname === HOME ? (
+              <li className="hover:cursor-pointer hover:underline self-center">
+                <Scroll.Link
+                  activeClass="active"
+                  to={work}
+                  spy={true}
+                  smooth={true}
+                  offset={-70}
+                  duration={500}
+                >
+                  Work
+                </Scroll.Link>
+              </li>
+            ) : null}
             <li className="hover:cursor-pointer hover:underline self-center">
               <Scroll.Link
                 activeClass="active"
